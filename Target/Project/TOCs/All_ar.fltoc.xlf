@@ -2,7 +2,7 @@
 <xliff
   version="1.2" xmlns="urn:oasis:names:tc:xliff:document:1.2" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
   xsi:schemaLocation="urn:oasis:names:tc:xliff:document:1.2 xliff-core-1.2-strict.xsd" xmlns:MadCap="http://www.madcapsoftware.com/Schemas/MadCap.xsd"
-  MadCap:translationStatus="untranslated">
+  MadCap:translationStatus="in-progress">
   <file
     xml:space="preserve"
     original="All.fltoc"
@@ -60,54 +60,54 @@
             mtype="seg"
             mid="1"
             comment="Title">Parent</mrk></seg-source><target
-          state="needs-translation"><mrk
+          state="needs-review-adaptation"><mrk
             mtype="seg"
             mid="1"
-            MadCap:segmentStatus="Untranslated"
-            MadCap:matchPercent="0" /></target></trans-unit><trans-unit
+            MadCap:segmentStatus="ExactMatch"
+            MadCap:matchPercent="100">الاب</mrk></target></trans-unit><trans-unit
         id="3"
         restype="x-toc-entry-title"
         phase-name="pretrans"><source>Child</source><seg-source><mrk
             mtype="seg"
             mid="1"
             comment="Title">Child</mrk></seg-source><target
-          state="needs-translation"><mrk
+          state="needs-review-adaptation"><mrk
             mtype="seg"
             mid="1"
-            MadCap:segmentStatus="Untranslated"
-            MadCap:matchPercent="0" /></target></trans-unit><trans-unit
+            MadCap:segmentStatus="ContextMatch"
+            MadCap:matchPercent="101">الابن</mrk></target></trans-unit><trans-unit
         id="4"
         restype="x-toc-entry-title"
         phase-name="pretrans"><source>Subchild</source><seg-source><mrk
             mtype="seg"
             mid="1"
             comment="Title">Subchild</mrk></seg-source><target
-          state="needs-translation"><mrk
+          state="needs-review-adaptation"><mrk
             mtype="seg"
             mid="1"
-            MadCap:segmentStatus="Untranslated"
-            MadCap:matchPercent="0" /></target></trans-unit><trans-unit
+            MadCap:segmentStatus="ContextMatch"
+            MadCap:matchPercent="101">ابن الابن</mrk></target></trans-unit><trans-unit
         id="5"
         restype="x-toc-entry-title"
         phase-name="pretrans"><source>- topic header-ConditionedTopic-child</source><seg-source><mrk
             mtype="seg"
             mid="1"
             comment="Title">- topic header-ConditionedTopic-child</mrk></seg-source><target
-          state="needs-translation"><mrk
+          state="needs-review-adaptation"><mrk
             mtype="seg"
             mid="1"
-            MadCap:segmentStatus="Untranslated"
-            MadCap:matchPercent="0" /></target></trans-unit><trans-unit
+            MadCap:segmentStatus="ExactMatch"
+            MadCap:matchPercent="100">- الموضوع رأس-مقالة مشروط-الأبن</mrk></target></trans-unit><trans-unit
         id="6"
         restype="x-toc-entry-title"
         phase-name="pretrans"><source>ContentWBothConditions</source><seg-source><mrk
             mtype="seg"
             mid="1"
             comment="Title">ContentWBothConditions</mrk></seg-source><target
-          state="needs-translation"><mrk
+          state="needs-review-adaptation"><mrk
             mtype="seg"
             mid="1"
-            MadCap:segmentStatus="Untranslated"
-            MadCap:matchPercent="0" /></target></trans-unit></body>
+            MadCap:segmentStatus="ExactMatch"
+            MadCap:matchPercent="100">محتوى مشروط بشرطين</mrk></target></trans-unit></body>
   </file>
 </xliff>

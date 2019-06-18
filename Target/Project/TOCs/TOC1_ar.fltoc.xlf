@@ -2,7 +2,7 @@
 <xliff
   version="1.2" xmlns="urn:oasis:names:tc:xliff:document:1.2" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
   xsi:schemaLocation="urn:oasis:names:tc:xliff:document:1.2 xliff-core-1.2-strict.xsd" xmlns:MadCap="http://www.madcapsoftware.com/Schemas/MadCap.xsd"
-  MadCap:translationStatus="untranslated">
+  MadCap:translationStatus="in-progress">
   <file
     xml:space="preserve"
     original="TOC1.fltoc"
@@ -49,43 +49,43 @@
             mtype="seg"
             mid="1"
             comment="Title">ConditionedParent</mrk></seg-source><target
-          state="needs-translation"><mrk
+          state="needs-review-adaptation"><mrk
             mtype="seg"
             mid="1"
-            MadCap:segmentStatus="Untranslated"
-            MadCap:matchPercent="0" /></target></trans-unit><trans-unit
+            MadCap:segmentStatus="ContextMatch"
+            MadCap:matchPercent="101">اب مشروط</mrk></target></trans-unit><trans-unit
         id="2"
         restype="x-toc-entry-title"
         phase-name="pretrans"><source>- topic header-ConditionedTopic-parent</source><seg-source><mrk
             mtype="seg"
             mid="1"
             comment="Title">- topic header-ConditionedTopic-parent</mrk></seg-source><target
-          state="needs-translation"><mrk
+          state="needs-review-adaptation"><mrk
             mtype="seg"
             mid="1"
-            MadCap:segmentStatus="Untranslated"
-            MadCap:matchPercent="0" /></target></trans-unit><trans-unit
+            MadCap:segmentStatus="ContextMatch"
+            MadCap:matchPercent="101">- الموضوع رأس-مقالة مشروط-الأم</mrk></target></trans-unit><trans-unit
         id="3"
         restype="x-toc-entry-title"
         phase-name="pretrans"><source>- topic header-ConditionedTopic-parent</source><seg-source><mrk
             mtype="seg"
             mid="1"
             comment="Title">- topic header-ConditionedTopic-parent</mrk></seg-source><target
-          state="needs-translation"><mrk
+          state="needs-review-adaptation"><mrk
             mtype="seg"
             mid="1"
-            MadCap:segmentStatus="Untranslated"
-            MadCap:matchPercent="0" /></target></trans-unit><trans-unit
+            MadCap:segmentStatus="ExactMatch"
+            MadCap:matchPercent="100">- الموضوع رأس-مقالة مشروط-الأم</mrk></target></trans-unit><trans-unit
         id="4"
         restype="x-toc-entry-title"
         phase-name="pretrans"><source>ContentWBothConditions</source><seg-source><mrk
             mtype="seg"
             mid="1"
             comment="Title">ContentWBothConditions</mrk></seg-source><target
-          state="needs-translation"><mrk
+          state="needs-review-adaptation"><mrk
             mtype="seg"
             mid="1"
-            MadCap:segmentStatus="Untranslated"
-            MadCap:matchPercent="0" /></target></trans-unit></body>
+            MadCap:segmentStatus="ExactMatch"
+            MadCap:matchPercent="100">محتوى مشروط بشرطين</mrk></target></trans-unit></body>
   </file>
 </xliff>

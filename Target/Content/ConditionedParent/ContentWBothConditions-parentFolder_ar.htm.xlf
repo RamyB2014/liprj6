@@ -2,7 +2,7 @@
 <xliff
   version="1.2" xmlns="urn:oasis:names:tc:xliff:document:1.2" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
   xsi:schemaLocation="urn:oasis:names:tc:xliff:document:1.2 xliff-core-1.2-strict.xsd" xmlns:MadCap="http://www.madcapsoftware.com/Schemas/MadCap.xsd"
-  MadCap:translationStatus="untranslated">
+  MadCap:translationStatus="in-progress">
   <file
     xml:space="preserve"
     original="ContentWBothConditions-parentFolder.htm"
@@ -71,21 +71,21 @@
         phase-name="pretrans"><source>ContentWBothConditions</source><seg-source><mrk
             mtype="seg"
             mid="1">ContentWBothConditions</mrk></seg-source><target
-          state="needs-translation"><mrk
+          state="needs-review-adaptation"><mrk
             mtype="seg"
             mid="1"
-            MadCap:segmentStatus="Untranslated"
-            MadCap:matchPercent="0" /></target></trans-unit><trans-unit
+            MadCap:segmentStatus="ContextMatch"
+            MadCap:matchPercent="101">محتوى مشروط بشرطين</mrk></target></trans-unit><trans-unit
         id="3"
         restype="x-xml-h2"
         phase-name="pretrans"><source>Screen parent element print child element</source><seg-source><mrk
             mtype="seg"
             mid="1">Screen parent element print child element</mrk></seg-source><target
-          state="needs-translation"><mrk
+          state="needs-review-adaptation"><mrk
             mtype="seg"
             mid="1"
-            MadCap:segmentStatus="Untranslated"
-            MadCap:matchPercent="0" /></target></trans-unit><trans-unit
+            MadCap:segmentStatus="ExactMatch"
+            MadCap:matchPercent="100">سكرين العنصر الرئيسي و برنت العنصر الثانوي</mrk></target></trans-unit><trans-unit
         id="4"
         restype="x-xml-p"
         phase-name="pretrans"><source>The entire paragraph is conditioned with screenOnly condition. <bpt
@@ -105,8 +105,8 @@
           state="needs-translation"><mrk
             mtype="seg"
             mid="1"
-            MadCap:segmentStatus="Untranslated"
-            MadCap:matchPercent="0" /><mrk
+            MadCap:segmentStatus="ExactMatch"
+            MadCap:matchPercent="100">النص كله مشروط ب شرط سكرين</mrk><mrk
             mtype="protected"
             mid="2"
             MadCap:segmentStatus="Untranslated"
@@ -120,11 +120,11 @@
         phase-name="pretrans"><source>Print parent element screen child element</source><seg-source><mrk
             mtype="seg"
             mid="1">Print parent element screen child element</mrk></seg-source><target
-          state="needs-translation"><mrk
+          state="needs-review-adaptation"><mrk
             mtype="seg"
             mid="1"
-            MadCap:segmentStatus="Untranslated"
-            MadCap:matchPercent="0" /></target></trans-unit><trans-unit
+            MadCap:segmentStatus="ExactMatch"
+            MadCap:matchPercent="100">برنت العنصر الرئيسي و برنت العنصر الثانوي</mrk></target></trans-unit><trans-unit
         id="6"
         restype="x-xml-p"
         phase-name="pretrans"><source>The entire paragraph is conditioned with screenOnly condition. <bpt
@@ -144,8 +144,8 @@
           state="needs-translation"><mrk
             mtype="seg"
             mid="1"
-            MadCap:segmentStatus="Untranslated"
-            MadCap:matchPercent="0" /><mrk
+            MadCap:segmentStatus="ExactMatch"
+            MadCap:matchPercent="100">النص كله مشروط ب شرط سكرين</mrk><mrk
             mtype="protected"
             mid="2"
             MadCap:segmentStatus="Untranslated"
